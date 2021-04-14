@@ -1,0 +1,36 @@
+h2{
+    color:#3d3d3d;
+    background:#e1edf2;
+    padding: 10px;
+}
+
+h1{
+    color: #3d3d3d;
+    background: #e1edf2;
+    padding: 10px;
+}
+
+.matriz{
+    width: 100px;
+}
+
+.familia{
+    width: 100%;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 940px;
+    padding: 0px 200px;
+    margin: 30px;
+    
+}
+
+figure{
+    text-align: center;
+    padding: 15px;
+}
+
+ul{
+    list-style-type: square;
+}
