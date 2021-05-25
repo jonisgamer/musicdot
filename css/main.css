@@ -1,0 +1,101 @@
+
+body{
+    font-family: sans-serif;
+    /* background-color: lightgray; */
+    width: 940px;
+    padding: 0px 200px;
+}
+
+
+.titulo {
+    color:#3d3d3d;
+    background-color: #e1edf2;
+    padding: 10px;
+    color:blue;
+    text-align: center;
+}
+
+
+#titulo-principal{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    /* letter-spacing: 10px;
+    line-height: 30px;
+    word-spacing: 10px; */
+}
+
+
+span{
+    color: red;
+    background-color: blue;
+}
+
+.subtitulo{
+    border-bottom: 2px solid black;
+}
+
+.contato-subtitulo{
+    display:inline;
+}
+
+.contato-info-titulo{
+    display: inline;
+}
+
+.contato-info-descricao{
+    display: inline;
+    margin-left: 10px;
+}
+
+.contato-secao-correspondencia{
+    display: inline-block;
+}
+
+.contato-secao-telefone{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 32px;
+}
+
+.contato-info{
+    margin: 16px 0 24px;
+    padding-left: 32px;
+}
+
+figure{
+    text-align: center;
+    background-color: whitesmoke;
+    color: lightgray;
+    padding:15px;
+    margin: 30px;
+}
+
+figure img{
+    width: 100%;
+}
+
+.figura-matriz{
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.figura-familia{
+    width: 275px;
+    float: right;
+}
+
+figcaption{
+    margin: 10px
+}
+
+ul{
+    list-style-type: square;
+}
+
+ol{
+    list-style-type: upper-alpha;
+}
